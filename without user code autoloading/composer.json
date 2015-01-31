@@ -1,0 +1,6 @@
+{
+  "require":{
+    "fabpot/goutte": "2.0.*@dev",
+    "stichoza/google-translate-php": "~2.0"
+  }
+}
